@@ -68,12 +68,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 ## Conclusion
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
-## Author
-Name:Janani G
-Register No:212224100022
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Janani G 212224100022
 **Course:** Introduction to Cloud Computing  
 
