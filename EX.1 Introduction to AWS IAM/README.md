@@ -27,24 +27,28 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Reviewed pre-created IAM users: user-1, user-2, user-3  
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+
+<img width="1876" height="929" alt="image" src="https://github.com/user-attachments/assets/6c0f94f4-37b7-491e-a637-4ca0a391cc17" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+  
+<img width="1917" height="959" alt="image" src="https://github.com/user-attachments/assets/db7c3b5f-f19a-4360-b369-9a544e5c520a" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
 - Verified S3 access for user-1  
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
-**Screenshot:**  
-(Add screenshot here)
-
+**Screenshot:**
+   
+<img width="1909" height="991" alt="image" src="https://github.com/user-attachments/assets/c98dd769-a922-443d-84e1-97b1af4d56ab" />
 
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
@@ -63,6 +67,10 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 
 ## Conclusion
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
+
+## Author
+Name:Janani G
+Register No:212224100022
 
 
 ## Author
