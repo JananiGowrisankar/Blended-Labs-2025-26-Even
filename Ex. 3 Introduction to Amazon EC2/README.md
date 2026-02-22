@@ -96,13 +96,15 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1.Logged into the AWS Management Console and opened the EC2 dashboard to review the available sections like Instances, AMIs, Key Pairs, Security Groups, and Elastic IPs. This helped me understand how EC2 resources are organized.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2.Launched a new virtual machine by selecting Amazon Linux 2 AMI and choosing the t2.micro instance type under the free tier. Configured basic settings including instance name, key pair, and default network options.
+
+3.Created and configured a Security Group to control inbound traffic. Allowed SSH (port 22) access from my IP for secure remote login and HTTP (port 80) access from anywhere to enable web traffic.
+
+4.Connected to the running EC2 instance using SSH with the downloaded key pair. Verified successful connection by accessing the command line of the Amazon Linux instance.
+
+5.Performed basic instance management operations such as Stop, Start, and Reboot from the EC2 console, observing the corresponding state changes and understanding instance lifecycle behavior.
 
 ---
 
