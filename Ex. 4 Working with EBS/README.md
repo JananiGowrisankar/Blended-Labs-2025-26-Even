@@ -1,10 +1,10 @@
-# Lab 4 – Working with Amazon Elastic Block Store (EBS)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9ee49689-cc76-4bf5-afab-fcf8604c0079" /># Lab 4 – Working with Amazon Elastic Block Store (EBS)
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Janani G
+* **Register Number**: 212224100022
+* **Date of Submission**: 27/02/2025
 
 ---
 
@@ -92,19 +92,23 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="1917" height="1069" alt="image" src="https://github.com/user-attachments/assets/395e1d9b-fe22-449a-bd77-4726e1bcd8d1" />
+
+
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="1896" height="1068" alt="image" src="https://github.com/user-attachments/assets/d029a118-6d1d-4f39-953b-622d18bfd89e" />
+
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/12e8d6ee-878b-4937-92d9-22aed2bdcfbf" />
+
 
 ---
 
