@@ -1,4 +1,4 @@
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9ee49689-cc76-4bf5-afab-fcf8604c0079" /># Lab 4 – Working with Amazon Elastic Block Store (EBS)
+# Lab 4 – Working with Amazon Elastic Block Store (EBS)
 
 ## Author
 
@@ -78,13 +78,11 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.Explored Amazon EBS in the Amazon Web Services EC2 dashboard and observed different volume types like gp3, Provisioned IOPS, and HDD options.
+2.Created a new EBS volume in the same Availability Zone as the EC2 instance with a suitable size and type.
+3.Attached the created EBS volume to the running EC2 instance as an additional block device.
+4.Connected through SSH, formatted the volume with ext4, and mounted it to a directory such as /mnt/ebs.
+5.Stored sample data in the mounted volume, rebooted the instance, and verified that the data persisted after restart.
 
 ---
 
