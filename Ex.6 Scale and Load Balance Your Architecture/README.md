@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author : Janani G
+Reg no : 212224100022   
+Date : 18/3/26
 
 ---
 
